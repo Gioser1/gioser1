@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Gioser1/gioser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gioser1/sergio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
