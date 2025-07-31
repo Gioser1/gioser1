@@ -3,6 +3,7 @@
 # ¡Hola, soy Sergio! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un programador apasionado por resolver problemas y construir soluciones innovadoras. Aquí te cuento un poco más sobre mí:
+- me llamo sergio, tengo 19 años, actualmente estudio porgramacion de sofware en la universidad del sena en colombia
 
 - 🔭 Actualmente estoy trabajando **[https://creativeweed.netlify.app/]** — una app web para [para vender sitios web profesionalmente con muchas funciones personalizadas].
 - 🌱 Actualmente estoy aprendiendo **[javaScript,HTML,CSS,PYTHON]** —estoy mejorando mis habilidades en desarrollo web, diseño web y node.js
