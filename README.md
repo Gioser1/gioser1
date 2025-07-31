@@ -16,6 +16,7 @@
 ### 🌱 Lo que estoy aprendiendo
 - **Lenguajes y Tecnologías**: JavaScript, HTML, CSS, Python.
 - **Habilidades en desarrollo**: Diseño web, desarrollo web, y **Node.js**.
+- Programador Full stack Novato  🌱
 
 ### 👯 Colaboraciones
 - Busco colaborar en **proyectos open-source**, especialmente aquellos que involucren:
